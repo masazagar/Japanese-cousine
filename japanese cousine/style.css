@@ -1,0 +1,89 @@
+    * {
+        font-family: Helvetica, sans-serif;
+        background-color: black;
+        
+    }
+
+    img {
+        width:800px;
+        float:right;      
+    }
+    
+  
+
+    .historySection {
+        float:none;
+        width:auto;
+    }
+
+    article{
+        height: 400px;
+        color:white;
+        
+        font-size: 20px;
+        width: 600px;
+            
+        margin-left: 50px;
+    
+    }
+ 
+    .title {
+        text-align: center;
+        background-color: black;
+        color: white;
+        font-size: 80px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    
+   
+    .mainPageNav{
+        
+        
+        text-align:center;
+        background-color: black;
+        padding: 20px;
+        margin-bottom: 40px;
+        
+    }
+    
+    span {
+        border: 3px dotted grey;
+        padding:10px 20px;
+        margin: 0 50px;
+    }
+
+    h2
+    {
+        margin: 0 auto;
+        font-weight: bold;
+        font-family: Helvetica;
+        height: 100px;
+        color: white;
+        text-align: center;
+        font-size: 60px;
+    }
+
+
+
+    a {
+        color:grey;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: lightsteelblue;
+    }
+
+    
+  .footer {
+      font-size:15px; 
+      color:grey;
+      padding: 0 auto;
+      text-align:center;
+     
+    
+      
+    }
+
+    
